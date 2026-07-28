@@ -344,11 +344,11 @@ Feel free to use, modify, and improve it for learning purposes.
 
 **Krishna Arjariya**
 
-📧 Email: your-email@example.com
+📧 Email: 24bit030@ietdavv@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://www.linkedin.com/in/krishna-arjariya-a50785323?
 
-🐙 GitHub: https://github.com/your-username
+🐙 GitHub: https://github.com/Krishna613405
 
 ---
 
