@@ -263,27 +263,6 @@ email-writer-ext
 
 8. Click **AI Reply**
 
----
-
-# 📷 Screenshots
-
-## Home Page
-
-> Add Screenshot Here
-
----
-
-## AI Generated Reply
-
-> Add Screenshot Here
-
----
-
-## Gmail Integration
-
-> Add Screenshot Here
-
----
 
 # 🎯 Future Enhancements
 
